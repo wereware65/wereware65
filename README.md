@@ -8,7 +8,7 @@ Hi, I’m @wereware65
 
 I’m currently working on a few projects such as 
 - Voxelcraft: Reforged (Roblox project)
-- Underverse: Craft Edition (A minecraft mod project) 
+- Underverse: Craft Edition (A minecraft mod project that used to be worked on before reforged but stopped getting progress) 
 <!---
 wereware65/wereware65 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
